@@ -1,0 +1,23 @@
+{
+  "name": "bot4",
+  "version": "5.1.0",
+  "description": "bot 4 goes here",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "norepo"
+  },
+  "keywords": [
+    "jr"
+  ],
+  "author": "Jewel Rana",
+  "license": "MIT",
+  "dependencies": {
+    "claudia-bot-builder": "^4.3.0",
+    "huh": "^2.0.1"
+  },
+  "devDependencies": {}
+}
